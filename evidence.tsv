@@ -1,0 +1,135 @@
+domain	group	sources	evidence
+ad.baihemob.com	Other ad SDK	classes.dex	http://ad.baihemob.com
+ada.baidu.com	Baidu	classes6.dex, classes8.dex	https://ada.baidu.com/site
+adash.m.taobao.com	Tanx/Alimama	classes10.dex	http://adash.m.taobao.com/rest/sur
+adashx.m.taobao.com	Tanx/Alimama	classes10.dex	adapterNotExistError adapter_bridge_ver adapter_class adaptive adaptive_ad adashx.m.taobao.com adashxServerHost adb_enabled add add event: add group event: add path t
+adn.insight.ucweb.com	UC/Noah/Huichuan	classes6.dex	http://adn.insight.ucweb.com/adsserver/noah_sdk_ad_request
+adn.yolinkmob.com	UC/Noah/Huichuan	classes6.dex	http://adn.yolinkmob.com/adns/noah/bidding_server/enquiry_price
+adservice.sigmob.cn	Sigmob	classes12.dex, classes8.dex	https://adservice.sigmob.cn/extconfig?
+adx-bj.statisticslinks.com	Sigmob	classes12.dex, classes8.dex	https://adx-bj.statisticslinks.com/bid
+adx-strategy-api-cn.statisticslinks.com	Sigmob	classes8.dex	https://adx-strategy-api-cn.statisticslinks.com/sdk/app_strategy
+adx-tk-sz.statisticslinks.com	Sigmob	classes8.dex	https://adx-tk-sz.statisticslinks.com/v1
+adx.anythinktech.com	AnyThink/TopOn	classes10.dex	https://adx.anythinktech.com/bid
+adxcn-tk.anythinktech.com	AnyThink/TopOn	classes10.dex	https://adxcn-tk.anythinktech.com/v1
+adxtool.sigmob.cn	Sigmob	classes4.dex, classes8.dex	https://adxtool.sigmob.cn/debug/feedback
+alimama.com	Tanx/Alimama	classes.dex, classes10.dex, classes18.dex	"er_slide_in_from_top alerter_slide_out_to_top alihacore_test aliyun-inc.com aliyun.com aliyuncs.com allServices allowStacking alog alpha alphabeticModifiers al pay.com"":""1"",""//*.etao.com"":""1"",""//*.alibaba.com"":""1"",""//*.aliyun.com"":""1"",""//*."
+alogsus.umeng.com	Umeng telemetry	classes9.dex, resources.arsc	https://alogsus.umeng.com
+alogus.umeng.com	Umeng telemetry	classes9.dex, resources.arsc	https://alogus.umeng.com
+api-access.pangolin-sdk-toutiao-b.com	Pangle/ByteDance	classes12.dex	ao ap apJ apa_click_content_intent api api is null api is: api-access %api-access.pangolin-sdk-toutiao-b.com #api-access.pangolin-sdk-toutiao.com $api-access.pangolin-sdk-toutiao1.com api ss %api-access.pangolin-sdk-toutiao-b.com #api-acces
+api-access.pangolin-sdk-toutiao.com	Pangle/ByteDance	classes11.dex, classes12.dex	https://api-access.pangolin-sdk-toutiao.com
+api-access.pangolin-sdk-toutiao1.com	Pangle/ByteDance	classes12.dex	ao ap apJ apa_click_content_intent api api is null api is: api-access %api-access.pangolin-sdk-toutiao-b.com #api-access.pangolin-sdk-toutiao.com $api-access.pangolin-sdk-toutiao1.com api ss %api-access.pangolin-sdk-toutiao-b.com #api-acces
+api-feedback.iqiyi.com	iQIYI Cupid	classes13.dex	https://api-feedback.iqiyi.com/feedbacks
+api.e.kuaishou.cn	Kuaishou Ads	assets/ksad_idc.json, classes13.dex	"V apW apX apY apZ apa apb apc apd ape apf apg aph api api 为空 api.e.kuaishou.com apiAdTag apiBreathLamp apiCode apiExpParam apiKey apiLevel apiMisTouch ouzt.com"", ""api.kwaizt.com"" ], ""eapi"": [ ""api.e.kuaishou.com"", ""api.e.kuaishou.cn"" ] } gs"
+api.e.kuaishou.com	Kuaishou Ads	assets/ksad_idc.json, classes13.dex	"V apW apX apY apZ apa apb apc apd ape apf apg aph api api 为空 api.e.kuaishou.com apiAdTag apiBreathLamp apiCode apiExpParam apiKey apiLevel apiMisTouch ouzt.com"", ""api.kwaizt.com"" ], ""eapi"": [ ""api.e.kuaishou.com"", ""api.e.kuaishou.cn"" ] } ""w"
+api.kuaishouzt.com	Kuaishou Ads	assets/ksad_idc.json, classes13.dex	"V apW apX apY apZ apa apb apc apd ape apf apg aph api api 为空 api.e.kuaishou.com apiAdTag apiBreathLamp apiCode apiExpParam apiKey apiLevel apiMisTouch ""w1.gskwai.com"", ""w2.gskwai.com"" ], ""zt"": [ ""zt.gifshow.com"", ""api.kuaishouzt.com"", ""api."
+api.kwaizt.com	Kuaishou Ads	assets/ksad_idc.json, classes13.dex	"V apW apX apY apZ apa apb apc apd ape apf apg aph api api 为空 api.e.kuaishou.com apiAdTag apiBreathLamp apiCode apiExpParam apiKey apiLevel apiMisTouch ouzt.com"", ""api.kwaizt.com"" ], ""eapi"": [ ""api.e.kuaishou.com"", ""api.e.kuaishou.cn"" ] } ""w"
+api.wxcjgg.cn	Wangmai/IYT	classes.dex	tor anticipateOvershootInterpolator anyOf ap apdId apdid apdidToken api api.shanghailingye.cn api.wxcjgg.cn apiAuthCheck apiGroupMap apiKey apiLevel apiName apiRefere tInterpolator anyOf ap apdId apdid apdidToken api api.shanghailingye.cn a
+applog.bytedance.net	Pangle/ByteDance	classes12.dex	nfo applications applied appliedThemeValues applink_click applist applog ,applog.bytedance.net/service/2/app_log_test/ applog_did apply applyBoxAttributes applyBoxUnderli
+applog.snssdk.com	Pangle/ByteDance	classes11.dex, classes12.dex, classes13.dex	https://applog.snssdk.com/service/2/app_log/
+apps.bytesfield-b.com	Pangle/ByteDance	classes11.dex, classes12.dex	https://apps.bytesfield-b.com
+apps.bytesfield.com	Pangle/ByteDance	classes11.dex, classes12.dex	https://apps.bytesfield.com
+b4oil169.fn.bytedance.net	Pangle/ByteDance	classes11.dex	ax6 axial axis ay ay3 ay6 az az3 az6 azimuth_unit b b. b0 b1 b2 b4oil169.fn.bytedance.net b9304799be85d7222baa15927a7e3cd1 b_ b_ad_req b_msg_id b_msg_process_name
+beta2-ad-open-api.test.gifshow.com	Kuaishou Ads	classes13.dex	"in_sdk_tips bem ben benefit beo bep beq ber bes bestChoice bet beta ""beta2-ad-open-api.test.gifshow.com beu bev bew bex bey bez bf bf209aecc73c55eb87318d5a64c76478 bfA bfB"
+bidding.yolinkmob.com	UC/Noah/Huichuan	classes6.dex	/ http://%s:%d/%s :http://adn.insight.ucweb.com/adsserver/noah_sdk_ad_request ?http://adn.yolinkmob.com/adns/noah/bidding_server/enquiry_price 4http://bidding.yolinkmob.com/sdkserver/price_request *http://log.yolinkmob.com ing_server/enquir
+bidinfo-ssp.iqiyi.com	iQIYI Cupid	classes13.dex	https://bidinfo-ssp.iqiyi.com/anti
+c.etoolads.cn	Other ad SDK	classes6.dex, classes8.dex	https://c.etoolads.cn/s/config
+c.umsns.com	Umeng telemetry	classes5.dex, classes9.dex, lib/arm64-v8a/libcrashsdk.so, lib/armeabi-v7a/libcrashsdk.so, resources.arsc	https://c.umsns.com/ulink/getRTC
+ccs.umeng.com	Umeng telemetry	classes9.dex	https://ccs.umeng.com/sa
+cdn-tos-cn.bytedance.net	Pangle/ByteDance	classes11.dex	2/app_log/ https://apps.bytesfield-b.com https://apps.bytesfield.com 7https://apps.oceanengine.com/customer/api/app/pkg_info? ghttps://cdn-tos-cn.bytedance.net/obj/archi/ad/play- ytesfield.com 7https://apps.oceanengine.com/customer/api/app/
+cn-api-sec.anythinktech.com	AnyThink/TopOn	classes10.dex, resources.arsc	https://cn-api-sec.anythinktech.com/v2/open/app
+cn-api.anythinktech.com	AnyThink/TopOn	classes10.dex	https://cn-api.anythinktech.com/v2/open/app
+cn-da.anythinktech.com	AnyThink/TopOn	classes10.dex	https://cn-da.anythinktech.com/v1/open/da
+cn-tk.anythinktech.com	AnyThink/TopOn	classes10.dex	https://cn-tk.anythinktech.com/ss/rrd
+cpro.baidustatic.com	Baidu	classes10.dex	https://cpro.baidustatic.com/cpro/logo/sdk/mob-adIcon_2x.png
+da.statisticslinks.com	Sigmob	classes12.dex, classes17.dex, classes4.dex, classes8.dex	https://da.statisticslinks.com/v1/open/da
+dc.sigmob.cn	Sigmob	classes12.dex, classes17.dex, classes4.dex, classes8.dex	https://dc.sigmob.cn/log
+e.uc.cn	UC/Noah/Huichuan	classes.dex, classes10.dex, classes13.dex, classes14.dex, classes17.dex, classes18.dex	https://e.uc.cn/reward/web/main/reward/taskrecord/add4third
+gromore.pangolin-sdk-toutiao.com	Pangle/ByteDance	classes11.dex, classes13.dex	https://gromore.pangolin-sdk-toutiao.com
+h-adashx.ut.taobao.com	Tanx/Alimama	classes10.dex	https://h-adashx.ut.taobao.com/upload
+huichuan.sm.cn	UC/Noah/Huichuan	classes6.dex	https://huichuan.sm.cn/config/dict
+i.snssdk.com	Pangle/ByteDance	classes11.dex, classes13.dex	https://i.snssdk.com/
+log-api.pangolin-sdk-toutiao-b.com	Pangle/ByteDance	classes12.dex	erruptibly lockObj lock_scene log log format error log happened OOM error. 5log-api.pangolin-sdk-toutiao-b.com/service/2/app_log/ log1p logBean logCallbackLock logDirect logError logEv
+log-api.pangolin-sdk-toutiao.com	Pangle/ByteDance	classes11.dex	cation locationFrequency lock lock load failed! lock_screen_default_bg log 3log-api.pangolin-sdk-toutiao.com/service/2/app_log/ log-encode-type logAdapter logEvent logExtra logFlushIn
+log.snssdk.com	Pangle/ByteDance	classes11.dex, classes12.dex, classes13.dex	https://log.snssdk.com/service/2/app_log/
+log.umsns.com	Umeng telemetry	classes.dex, classes11.dex, classes6.dex, classes8.dex, classes9.dex	http://log.umsns.com/link/qq/download/
+log.yolinkmob.com	UC/Noah/Huichuan	classes6.dex	http://log.yolinkmob.com/track/noah/ad_log
+logserver.insight.ucweb.com	UC/Noah/Huichuan	classes6.dex	ing_server/enquiry_price 4http://bidding.yolinkmob.com/sdkserver/price_request *http://log.yolinkmob.com/track/noah/ad_log 6http://logserver.insight.ucweb.com/logserver/chargelog http://play.google.com ttp://logserver.insight.ucweb.com/logs
+mmstat.com	Tanx/Alimama	assets/svg-template/SVGTag.java, classes.dex, classes14.dex, classes15.dex, classes16.dex	"ang.com"":""1"",""//*.alicdn.com"":""1"",""//*.mmstat.com"":""1"",""//*.yunos.com"":""1"",""//*.alibaba-inc.com"":""1"",""//*.alitrip.com"":""1"",""//*.aliloan.com"":""1"",""//*.kanbox.com"":""1"",""//*.wirl mama.com"":""1"",""//*.weibo.com"":""1"",""//*.tanx.com"":""1"",""//*.laiwan"
+msga.cupid.iqiyi.com	iQIYI Cupid	classes11.dex, classes13.dex	https://msga.cupid.iqiyi.com/mcp2.gif
+n.sigmob.cn	Sigmob	classes12.dex	d mutilproces mv mw mx my myLooper myPid myStatus myTid myUid mz n n.sigmob.cn n0 n=-1 nA nB nC nClic nD nE nEnableConsoleLog nF nG nGetLogLevel
+open.e.kuaishou.cn	Kuaishou Ads	assets/ksad_idc.json, classes13.dex	"RightRadius uik_when_null_clear_img uil-pool- uil-pool-d- uj uk ul ulog ulog-sdk.gifshow.com ultraviewpager_page_container um um_aaid umcConfigBean = umeng_back umen { ""api"": [ ""open.e.kuaishou.com"", ""open.e.kuaishou.cn"" ], ""ulog"": [ ""ulog-"
+open.e.kuaishou.com	Kuaishou Ads	assets/ksad_idc.json, classes13.dex	https://open.e.kuaishou.com/rest/e/v3/open/sdk2
+p1-lm.adkwai.com	Kuaishou Ads	classes13.dex	https://p1-lm.adkwai.com/udata/pkg/KS-Android-KSAdSDk/offline_components/obiwan/ks_so-obiwanNoSoRelease-3.3.56-445ef4f109-409.zip
+p2-lm.adkwai.com	Kuaishou Ads	classes13.dex	https://p2-lm.adkwai.com/udata/pkg/KS-Android-KSAdSDk/adInnerEc/4.10.30.2/ks_so-adInnerEcSoArm64v8aRelease-4.10.30.2-4a9af8acf6-0.apk
+p3-lm.adkwai.com	Kuaishou Ads	classes13.dex	https://p3-lm.adkwai.com/udata/pkg/KS-Android-KSAdSDk/offline_components/adWaynePlayer/ks_so-adWaynePlayerNoSoRelease-5.4.10.1-d7b01836ac-303.zip
+p4-lm.adkwai.com	Kuaishou Ads	classes13.dex	https://p4-lm.adkwai.com/udata/pkg/KS-Android-KSAdSDk/offline_components/adInnerEc/ks_so-adInnerEcNoSoRelease-5.3.11-49e860ead1-316.zip
+p5-lm.adkwai.com	Kuaishou Ads	classes13.dex	https://p5-lm.adkwai.com/udata/pkg/KS-Android-KSAdSDk/offline_components/adLive/ks_so-adLiveNoSoRelease-4.8.13-9cf471c757-289.zip
+partner.uc.cn	UC/Noah/Huichuan	classes6.dex	https://partner.uc.cn/mediations
+phoniex.toutiao.com	Pangle/ByteDance	classes12.dex	https://phoniex.toutiao.com
+pic1.iqiyipic.com	iQIYI Cupid	classes13.dex	https://pic1.iqiyipic.com/lequ/20241216/gift_box_title.png
+pic3.iqiyipic.com	iQIYI Cupid	classes13.dex	.8.13-9cf471c757-289.zip 4https://pic1.iqiyipic.com/lequ/20241216/gift_box.png :https://pic1.iqiyipic.com/lequ/20241216/gift_box_title.png Mhttps://pic3.iqiyipic.com/lequ/20260106/76e4a2008d0847f6a197be7749ad0d19.webp Mhttps://pic3.iqiyipic
+plbslog.umeng.com	Umeng telemetry	classes9.dex	https://plbslog.umeng.com
+pre-c.umsns.com	Umeng telemetry	classes9.dex	https://pre-c.umsns.com/ulink/getRTC
+pre-ssp.iytcdn.com	Wangmai/IYT	classes.dex	https://pre-ssp.iytcdn.com/reward/token
+pslog.umeng.com	Umeng telemetry	classes9.dex	https://pslog.umeng.com
+resource.cupid.iqiyi.com	iQIYI Cupid	classes13.dex	https://resource.cupid.iqiyi.com/app?
+rtapplog.snssdk.com	Pangle/ByteDance	classes11.dex, classes13.dex	https://rtapplog.snssdk.com/service/2/app_log/
+rtbcallback.sigmob.cn	Sigmob	classes12.dex	rt rt_alert_dialog rt_input_dialog rtb rtb_app_state rtb_log_url rtb_web rtbcallback.sigmob.cn rtc close hardware decode 6rtc fallback enable hardware decode, mDefaultCodecI
+rtlog.snssdk.com	Pangle/ByteDance	classes11.dex	https://rtlog.snssdk.com/service/2/app_log/
+s-adashx.ut.taobao.com	Tanx/Alimama	classes10.dex	sk_complete rv_task_complete_cn rvideo rw rw_n rw_num s s == null s | s-adashx.ut.taobao.com s-maxage s-maxage= s.limit == s.pos s0 s2s s2sDynamicPriceAdSourceListStr
+scc.bytedance.com	Pangle/ByteDance	assets/lottie_json/shake_phone.json, assets/lottie_json/swipe_right.json, classes11.dex, classes12.dex	https://scc.bytedance.com/scc_sdk/url_scan_v4
+sdk-beta.aqyad.com	Other ad SDK	classes4.dex	https://sdk-beta.aqyad.com
+sdk-log.partner.sm.cn	UC/Noah/Huichuan	classes6.dex, lib/arm64-v8a/libsaasCorePlayer.so, lib/armeabi-v7a/libsaasCorePlayer.so	https://sdk-log.partner.sm.cn/feedback_log
+sdk.adx.adwangmai.com	Wangmai/IYT	classes.dex	https://sdk.adx.adwangmai.com/
+sdk.aqyad.com	Other ad SDK	classes4.dex	https://sdk.aqyad.com
+sdk.zhangyuyidong.cn	UC/Noah/Huichuan	classes6.dex	http://sdk.zhangyuyidong.cn
+sdklog.zhangyuyidong.cn	UC/Noah/Huichuan	classes6.dex	http://sdklog.zhangyuyidong.cn
+sdkupgrade.insight.ucweb.com	UC/Noah/Huichuan	classes6.dex	https://sdkupgrade.insight.ucweb.com/sdkserver/getupgradesdk
+se.anythinktech.com	AnyThink/TopOn	classes10.dex	https://se.anythinktech.com/v2/open/api_hb
+sf3-fe-tos.pglstatp-toutiao.com	Pangle/ByteDance	assets/lottie_json/shake_phone.json, assets/lottie_json/swipe_right.json, classes11.dex, classes12.dex	https://sf3-fe-tos.pglstatp-toutiao.com/obj/csj-sdk-static/csj_assets/shake.webp
+site.u-mob.cn	UC/Noah/Huichuan	classes6.dex	https://site.u-mob.cn
+site.uc.cn	UC/Noah/Huichuan	classes6.dex	https://site.uc.cn/site/view?id=
+ssapi.anythinktech.com	AnyThink/TopOn	classes10.dex	_BAO&app_id= https://resource/ -https://rule.alibaba.com/rule/detail/2042.htm *https://se.anythinktech.com/v2/open/api_hb &https://se.anythinktech.com/v2/open/ns 5https://ssapi.anythinktech.com/sdk/rea hinktech.com/v2/open/ns 5https://ssapi
+ssp.iytcdn.com	Wangmai/IYT	classes.dex	https://ssp.iytcdn.com/reward/token
+ssp.ucweb.com	UC/Noah/Huichuan	classes6.dex	https://ssp.ucweb.com/native_ad
+sss.umeng.com	Umeng telemetry	classes9.dex	https://sss.umeng.com/api/v2/al
+static-s.iqiyi.com	iQIYI Cupid	classes13.dex	Mhttps://pic3.iqiyipic.com/lequ/20260106/76e4a2008d0847f6a197be7749ad0d19.webp %https://resource.cupid.iqiyi.com/app? Nhttps://static-s.iqiyi.com/lequ/20251112/a5641f4392d445d79a2ec2b6c98c4259.html https://static-s.iqiyi.com/lequ/20251112/a
+static.wxcjgg.cn	Wangmai/IYT	classes.dex	ligames.com !https://pre-ucc-log.aligames.com/ https://sdk.adx.adwangmai.com/ #https://ssp.iytcdn.com/reward/token #https://ssp.iytcdn.com/reward/valid Ehttps://static.wxcjgg.cn/assets/images/lo icon.png Dhttps://static.wxcjgg.cn/assets/ima
+static.yximgs.com	Kuaishou Ads	classes13.dex	https://static.yximgs.com/udata/pkg/KS-Android-KSAdSDk/ks_so-appStatusArm64v8aRelease-3.3.14.apk
+style-browse-openapi.test.gifshow.com	Kuaishou Ads	classes13.dex	"4.apk Ghttps://style-browse-openapi.test.gifshow.com//rest/e/internal/adBrowse &https://t7z.cupid.iqiyi.com/dsp_track3 https://t7z.cupid.iqiyi.com/etx !https://t7z.cupid.iqiyi.com/mixer ""https://t7 ata/pkg/KS-Android-KSAdSDk/ks_so-appStatus"
+success.ctobsnssdk.com	Pangle/ByteDance	assets/lottie_json/shake_phone.json, assets/lottie_json/swipe_right.json, classes11.dex, classes12.dex	.snssdk.com/service/2/app_log/ -https://scc.bytedance.com/scc_sdk/url_scan_v4 https://sf3-fe-tos.pglstatp-toutiao.com/obj/ad-pattern/pattern-aggregation/pattern-aggregation-eCommerce-abtest/shoppingMall-defaultPage/index.html ghttps://sf3-f
+t7z.cupid.iqiyi.com	iQIYI Cupid	classes13.dex	https://t7z.cupid.iqiyi.com/dsp_track3
+tanx.com	Other ad SDK	classes.dex, classes10.dex, classes16.dex, classes18.dex	"er_slide_in_from_top alerter_slide_out_to_top alihacore_test aliyun-inc.com aliyun.com aliyuncs.com allServices allowStacking alog alpha alphabeticModifiers al mama.com"":""1"",""//*.weibo.com"":""1"",""//*.tanx.com"":""1"",""//*.laiwang.com"":""1"",""//*."
+tbsasv.sigmob.cn	Sigmob	classes8.dex	rent_path tbMainClazz tbMainMethod tbSpeedBucket tbSpeedClazz tbrest_test tbsasv.sigmob.cn/ad/v4 tbsasv.sigmob.cn/hb/v2/ad tbspeed tc_string tcl_eu tcpConnected tcp
+tc.anythinktech.com	AnyThink/TopOn	classes10.dex	tbreturl tbrpsdk tbrpsdk-biometrics tbrpsdk-easyTrack tbrpsdk-trackUpload tc.anythinktech.com tc_string tcp_domain tcp_port tcp_rate tcp_tk_da_type td td_sds te tel
+test.huichuan.sm.cn	UC/Noah/Huichuan	classes6.dex	https://test.huichuan.sm.cn/config/get_video
+tk.statisticslinks.com	Sigmob	classes10.dex, classes17.dex, classes4.dex, classes6.dex, classes8.dex	https://tk.statisticslinks.com/v2/open/a_tk
+tm.sigmob.cn	Sigmob	classes12.dex	tl_textSelectColor tl_textUnselectColor tl_textsize tls tls handshaked tm tm.sigmob.cn tmpApi is null tmpArray tmpBoundsRect tmpLocation tmpMatrix tmpPaint tmp
+tobapplog.ctobsnssdk.com	Pangle/ByteDance	classes11.dex	com/service/2/abtest_config/ 0https://toblog.ctobsnssdk.com/service/2/app_log/ =https://toblog.ctobsnssdk.com/service/2/device_register_only/ 8https://toblog.ctobsnssdk.com/service/2/device_sdk/kite/ 5https://toblog.ctobs atp-toutiao.com/ob
+toblog.ctobsnssdk.com	Pangle/ByteDance	classes11.dex	https://toblog.ctobsnssdk.com/service/2/device_register_only/
+trace-beta.aqyad.com	Other ad SDK	classes4.dex	https://trace-beta.aqyad.com
+trace.aqyad.com	Other ad SDK	classes4.dex	https://trace.aqyad.com
+track.sigmob.cn	Sigmob	classes12.dex	eout_ctrl tq tr traceId track track is not send track message: track-id track.sigmob.cn trackColor trackColorActive trackColorInactive trackCornerRadius trackExtr
+tracktp.sigmob.cn	Sigmob	classes12.dex	ess trackTint trackTintMode trackTop trackWidth tracker trackers tracks tracktp.sigmob.cn trailing_comments *trans subscribedItem list occurs exception transId trans_
+ucc.umeng.com	Umeng telemetry	classes9.dex	https://ucc.umeng.com/v2/inn/fetch
+ulog-sdk.gifshow.com	Kuaishou Ads	assets/ksad_idc.json, classes13.dex	"RightRadius uik_when_null_clear_img uil-pool- uil-pool-d- uj uk ul ulog ulog-sdk.gifshow.com ultraviewpager_page_container um um_aaid umcConfigBean = umeng_back umen { ""api"": [ ""open.e.kuaishou.com"", ""open.e.kuaishou.cn"" ], ""ulog"": [ ""ulog-"
+ulog-sdk.ksapisrv.com	Kuaishou Ads	assets/ksad_idc.json, classes13.dex	"RightRadius uik_when_null_clear_img uil-pool- uil-pool-d- uj uk ul ulog ulog-sdk.gifshow.com ultraviewpager_page_container um um_aaid umcConfigBean = umeng_back umen { ""api"": [ ""open.e.kuaishou.com"", ""open.e.kuaishou.cn"" ], ""ulog"": [ ""ulog-"
+ulogs.umeng.com	Umeng telemetry	classes9.dex	https://ulogs.umeng.com
+ulogs.umengcloud.com	Umeng telemetry	classes9.dex	https://ulogs.umengcloud.com
+union.baidu.com	Baidu	classes10.dex	https://union.baidu.com
+universe.ad.live	Other ad SDK	classes13.dex	herSource(...)) UJ UK UL ULOG ULY UM UMCTelephonyManagement UN UNBIND UNIVERSE.AD.LIVE UNKNOW UNKNOWN UNKNOWN_TRYPLAY_ENTRY_SOURCE UNKONW UNLINK_SO_ERROR UNREGI
+user.wxcjgg.cn	Wangmai/IYT	classes.dex	se_dialog_frame used usedGpuMulti usedInFix usedMemory usedWebMulti user user.wxcjgg.cn userActionsTaken userAgent userAgent_encode userConnect() userDefActivity
+usertrack.alibaba-inc.com	Tanx/Alimama	AndroidManifest.xml, classes.dex, classes10.dex, classes12.dex, classes13.dex, res/anim-v21/design_bottom_sheet_slide_in.xml	http://usertrack.alibaba-inc.com
+utoken.umeng.com	Umeng telemetry	classes9.dex	https://utoken.umeng.com
+v1-lm.adukwai.com	Kuaishou Ads	classes.dex	https://v1-lm.adukwai.com/upic/2023/02/18/14/BMjAyMzAyMTgxNDE5NDZfNzA5ODY1ODE0Xzk2NDc4NDE4ODQ0XzJfMw==_b_B37be32fab59e9b1fb0523acae5fa2a45.mp4
+v6-adashx.ut.taobao.com	Tanx/Alimama	classes10.dex	_loader v v0 v1 v100 v1= v2 v25 v3 v31_exp v4 v4-wlan0 v5 v50 v6 v6-adashx.ut.taobao.com v75 v: vBtnDivider1 vBtnDivider2 v_btn_divider1 v_btn_divider2 v_c v_cd
+w1.gskwai.com	Kuaishou Ads	assets/ksad_idc.json	"""w1.gskwai.com"", ""w2.gskwai.com"" ], ""zt"": [ ""zt.gifshow.com"", ""api.kuaishouzt.com"", ""api.kwaizt.com"" ], ""eapi"": [ ""api.e.kuaishou.com"", ""api.e.ku om"", ""open.e.kuaishou.cn"" ], ""ulog"": [ ""ulog-sdk.gifshow.com"", ""ulog-sdk.ksapisrv.com"" ], ""cdn"
+w1.kskwai.com	Kuaishou Ads	assets/ksad_idc.json, classes13.dex	"RightRadius uik_when_null_clear_img uil-pool- uil-pool-d- uj uk ul ulog ulog-sdk.gifshow.com ultraviewpager_page_container um um_aaid umcConfigBean = umeng_back umen om"", ""open.e.kuaishou.cn"" ], ""ulog"": [ ""ulog-sdk.gifshow.com"", ""ulog-sdk.k"
+w2.gskwai.com	Kuaishou Ads	assets/ksad_idc.json	"""w1.gskwai.com"", ""w2.gskwai.com"" ], ""zt"": [ ""zt.gifshow.com"", ""api.kuaishouzt.com"", ""api.kwaizt.com"" ], ""eapi"": [ ""api.e.kuaishou.com"", ""api.e.ku dk.ksapisrv.com"" ], ""cdn"": [ ""w1.kskwai.com"", ""w2.kskwai.com"", ""w1.gskwai.com"", ""w2.gskwai.com"
+w2.kskwai.com	Kuaishou Ads	assets/ksad_idc.json	"om"", ""open.e.kuaishou.cn"" ], ""ulog"": [ ""ulog-sdk.gifshow.com"", ""ulog-sdk.ksapisrv.com"" ], ""cdn"": [ ""w1.kskwai.com"", ""w2.kskwai.com"", ""w1.gskwai.com"", dk.ksapisrv.com"" ], ""cdn"": [ ""w1.kskwai.com"", ""w2.kskwai.com"", ""w1.gskwai.com"", ""w2.gskwai"
+wolong-dsp.sm.cn	UC/Noah/Huichuan	classes6.dex	https://wolong-dsp.sm.cn/exchange?dsp_type=6
+wolong.sm.cn	UC/Noah/Huichuan	classes6.dex	https://wolong.sm.cn/app_event
+www.adintl.cn	UC/Noah/Huichuan	classes6.dex	est.huichuan.sm.cn/noah/noahLog -https://test.huichuan.sm.cn/redirect/feedback ,https://wolong-dsp.sm.cn/exchange?dsp_type=6 https://wolong.sm.cn/app_event hhttps://www.adintl.cn/sdkFeedback.html?slotId= huichuan.sm.cn/redirect/feedback ,ht
+www.pangle.cn	Other ad SDK	classes12.dex	https://www.pangle.cn/privacy/partner
+www.toutiaopage.com	Pangle/ByteDance	classes11.dex	erofsalmon\.com.*@3 X.+(www.chengzijianzhan.com|www.toutiaopage.com/tetris/page|ad.toutiao.com/tetris/page).+ .. ... A...........................backPressed................ cklyopen\.com.*@3 .*thefatherofsalmon\.com.* .*thefatherofsalmon\.c
+zt.gifshow.com	Kuaishou Ads	assets/ksad_idc.json	"""w1.gskwai.com"", ""w2.gskwai.com"" ], ""zt"": [ ""zt.gifshow.com"", ""api.kuaishouzt.com"", ""api.kwaizt.com"" ], ""eapi"": [ ""api.e.kuaishou.com"", ""api.e.ku gskwai.com"" ], ""zt"": [ ""zt.gifshow.com"", ""api.kuaishouzt.com"", ""api.kwaizt.com"" ], ""eapi"": [ """
