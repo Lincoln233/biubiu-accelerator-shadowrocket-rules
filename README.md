@@ -5,15 +5,18 @@ Shadowrocket rules extracted from the Biubiu Accelerator APK `p_ping_gpms_apk_0a
 - APK SHA256: `8d11bc1001d2bee0e09afe17254d59f00f6d04ea37435075a3db8442a6a7c7b8`
 - APK size: `81451971` bytes
 - Analysis date: `2026-06-29`
-- Rule file: `shadowrocket-adblock.list`
+- Rule-set file: `shadowrocket-rule-set.list`
+- Inline rule file: `shadowrocket-adblock.list`
 
 ## Use
 
-Add this raw URL as a Shadowrocket remote rule set:
+Use this line in your Shadowrocket config:
 
 ```text
-https://raw.githubusercontent.com/Lincoln233/biubiu-accelerator-shadowrocket-rules/main/shadowrocket-adblock.list
+RULE-SET,https://raw.githubusercontent.com/Lincoln233/biubiu-accelerator-shadowrocket-rules/main/shadowrocket-rule-set.list,REJECT
 ```
+
+If you paste rules directly into the `[Rule]` section, use `shadowrocket-adblock.list` instead.
 
 ## Method
 
@@ -23,6 +26,7 @@ Obvious auth, payment, app API, generic certificate, SVG, and source-code docume
 
 ## Files
 
-- `shadowrocket-adblock.list`: Shadowrocket `DOMAIN-SUFFIX,...,REJECT` rules.
+- `shadowrocket-rule-set.list`: remote `RULE-SET` rules without policy.
+- `shadowrocket-adblock.list`: inline Shadowrocket `DOMAIN-SUFFIX,...,REJECT` rules.
 - `domains.txt`: plain domain list.
 - `evidence.tsv`: selected domain evidence from APK strings.
