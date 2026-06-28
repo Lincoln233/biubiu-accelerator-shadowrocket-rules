@@ -5,6 +5,8 @@ Shadowrocket rules extracted from the Biubiu Accelerator APK `p_ping_gpms_apk_0a
 - APK SHA256: `8d11bc1001d2bee0e09afe17254d59f00f6d04ea37435075a3db8442a6a7c7b8`
 - APK size: `81451971` bytes
 - Analysis date: `2026-06-29`
+- Dynamic log: `proxy-2026-06-29-024929.db`
+- Rule count: `143`
 - Rule-set file: `shadowrocket-rule-set.list`
 - Inline rule file: `shadowrocket-adblock.list`
 
@@ -20,9 +22,9 @@ If you paste rules directly into the `[Rule]` section, use `shadowrocket-adblock
 
 ## Method
 
-Static extraction from APK DEX/resources/assets/native strings. The final list keeps ad, bid, SSP, ad SDK config, ad SDK CDN, and ad SDK telemetry domains tied to embedded SDKs such as AnyThink/TopOn, Pangle, Kuaishou Ads, Sigmob, UC/Noah, Baidu/Huichuan, iQIYI Cupid, Tanx/Alimama, Wangmai, and Umeng telemetry.
+Static extraction from APK DEX/resources/assets/native strings, then refined with a Shadowrocket proxy log captured while running Biubiu Accelerator. The final list keeps ad, bid, SSP, ad SDK config, ad SDK CDN, and ad SDK telemetry domains tied to embedded SDKs such as AnyThink/TopOn, Pangle, Kuaishou Ads, Tencent GDT, Beizi, FancyDSP, Sigmob, UC/Noah, Baidu/Huichuan, iQIYI Cupid, Tanx/Alimama, Wangmai, Tuia, and Umeng telemetry.
 
-Obvious auth, payment, app API, generic certificate, SVG, and source-code documentation domains were excluded.
+Obvious auth, payment, app API, generic certificate, SVG, source-code documentation, Biubiu first-party, SMS auth, email, and keyboard/input-method domains were excluded.
 
 ## Files
 

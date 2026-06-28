@@ -9,12 +9,12 @@ adservice.sigmob.cn	Sigmob	classes12.dex, classes8.dex	https://adservice.sigmob.
 adx-bj.statisticslinks.com	Sigmob	classes12.dex, classes8.dex	https://adx-bj.statisticslinks.com/bid
 adx-strategy-api-cn.statisticslinks.com	Sigmob	classes8.dex	https://adx-strategy-api-cn.statisticslinks.com/sdk/app_strategy
 adx-tk-sz.statisticslinks.com	Sigmob	classes8.dex	https://adx-tk-sz.statisticslinks.com/v1
-adx.anythinktech.com	AnyThink/TopOn	classes10.dex	https://adx.anythinktech.com/bid
-adxcn-tk.anythinktech.com	AnyThink/TopOn	classes10.dex	https://adxcn-tk.anythinktech.com/v1
+adx.adwangmai.com	Wangmai/IYT	classes.dex, proxy-2026-06-29-024929.db	Wangmai ADX suffix. APK strings include sdk.adx.adwangmai.com; Shadowrocket log showed sdk-cfg.adx.adwangmai.com going DIRECT.
 adxtool.sigmob.cn	Sigmob	classes4.dex, classes8.dex	https://adxtool.sigmob.cn/debug/feedback
 alimama.com	Tanx/Alimama	classes.dex, classes10.dex, classes18.dex	"er_slide_in_from_top alerter_slide_out_to_top alihacore_test aliyun-inc.com aliyun.com aliyuncs.com allServices allowStacking alog alpha alphabeticModifiers al pay.com"":""1"",""//*.etao.com"":""1"",""//*.alibaba.com"":""1"",""//*.aliyun.com"":""1"",""//*."
 alogsus.umeng.com	Umeng telemetry	classes9.dex, resources.arsc	https://alogsus.umeng.com
 alogus.umeng.com	Umeng telemetry	classes9.dex, resources.arsc	https://alogus.umeng.com
+anythinktech.com	AnyThink/TopOn	classes10.dex, proxy-2026-06-29-024929.db	Broad AnyThink/TopOn ad SDK suffix. APK strings include cn-api/adx/se/ssapi/tc endpoints; Shadowrocket log showed api/adx-bj/tk/ujoy.anythinktech.com going DIRECT.
 api-access.pangolin-sdk-toutiao-b.com	Pangle/ByteDance	classes12.dex	ao ap apJ apa_click_content_intent api api is null api is: api-access %api-access.pangolin-sdk-toutiao-b.com #api-access.pangolin-sdk-toutiao.com $api-access.pangolin-sdk-toutiao1.com api ss %api-access.pangolin-sdk-toutiao-b.com #api-acces
 api-access.pangolin-sdk-toutiao.com	Pangle/ByteDance	classes11.dex, classes12.dex	https://api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao1.com	Pangle/ByteDance	classes12.dex	ao ap apJ apa_click_content_intent api api is null api is: api-access %api-access.pangolin-sdk-toutiao-b.com #api-access.pangolin-sdk-toutiao.com $api-access.pangolin-sdk-toutiao1.com api ss %api-access.pangolin-sdk-toutiao-b.com #api-acces
@@ -23,12 +23,15 @@ api.e.kuaishou.cn	Kuaishou Ads	assets/ksad_idc.json, classes13.dex	"V apW apX ap
 api.e.kuaishou.com	Kuaishou Ads	assets/ksad_idc.json, classes13.dex	"V apW apX apY apZ apa apb apc apd ape apf apg aph api api 为空 api.e.kuaishou.com apiAdTag apiBreathLamp apiCode apiExpParam apiKey apiLevel apiMisTouch ouzt.com"", ""api.kwaizt.com"" ], ""eapi"": [ ""api.e.kuaishou.com"", ""api.e.kuaishou.cn"" ] } ""w"
 api.kuaishouzt.com	Kuaishou Ads	assets/ksad_idc.json, classes13.dex	"V apW apX apY apZ apa apb apc apd ape apf apg aph api api 为空 api.e.kuaishou.com apiAdTag apiBreathLamp apiCode apiExpParam apiKey apiLevel apiMisTouch ""w1.gskwai.com"", ""w2.gskwai.com"" ], ""zt"": [ ""zt.gifshow.com"", ""api.kuaishouzt.com"", ""api."
 api.kwaizt.com	Kuaishou Ads	assets/ksad_idc.json, classes13.dex	"V apW apX apY apZ apa apb apc apd ape apf apg aph api api 为空 api.e.kuaishou.com apiAdTag apiBreathLamp apiCode apiExpParam apiKey apiLevel apiMisTouch ouzt.com"", ""api.kwaizt.com"" ], ""eapi"": [ ""api.e.kuaishou.com"", ""api.e.kuaishou.cn"" ] } ""w"
+api.shanghailingye.cn	Wangmai/IYT	proxy-2026-06-29-024929.db	Shadowrocket proxy log: 10 DIRECT / 0 PROXY / 0 REJECT hits; hosts=api.shanghailingye.cn; first_rules=DOMAIN-SUFFIX,cn,DIRECT
+api.ssp.xcultur.com	Wangmai/IYT	proxy-2026-06-29-024929.db	Shadowrocket proxy log: 4 DIRECT / 0 PROXY / 0 REJECT hits; hosts=api.ssp.xcultur.com; first_rules=GEOIP,CN,DIRECT
 api.wxcjgg.cn	Wangmai/IYT	classes.dex	tor anticipateOvershootInterpolator anyOf ap apdId apdid apdidToken api api.shanghailingye.cn api.wxcjgg.cn apiAuthCheck apiGroupMap apiKey apiLevel apiName apiRefere tInterpolator anyOf ap apdId apdid apdidToken api api.shanghailingye.cn a
 applog.bytedance.net	Pangle/ByteDance	classes12.dex	nfo applications applied appliedThemeValues applink_click applist applog ,applog.bytedance.net/service/2/app_log_test/ applog_did apply applyBoxAttributes applyBoxUnderli
 applog.snssdk.com	Pangle/ByteDance	classes11.dex, classes12.dex, classes13.dex	https://applog.snssdk.com/service/2/app_log/
 apps.bytesfield-b.com	Pangle/ByteDance	classes11.dex, classes12.dex	https://apps.bytesfield-b.com
 apps.bytesfield.com	Pangle/ByteDance	classes11.dex, classes12.dex	https://apps.bytesfield.com
 b4oil169.fn.bytedance.net	Pangle/ByteDance	classes11.dex	ax6 axial axis ay ay3 ay6 az az3 az6 azimuth_unit b b. b0 b1 b2 b4oil169.fn.bytedance.net b9304799be85d7222baa15927a7e3cd1 b_ b_ad_req b_msg_id b_msg_process_name
+beizi.biz	Beizi	proxy-2026-06-29-024929.db	Broad Beizi ad SDK suffix. Shadowrocket log showed sdk.beizi.biz and api-htp.beizi.biz going DIRECT with iPhone WebKit UA during the ad burst.
 beta2-ad-open-api.test.gifshow.com	Kuaishou Ads	classes13.dex	"in_sdk_tips bem ben benefit beo bep beq ber bes bestChoice bet beta ""beta2-ad-open-api.test.gifshow.com beu bev bew bex bey bez bf bf209aecc73c55eb87318d5a64c76478 bfA bfB"
 bidding.yolinkmob.com	UC/Noah/Huichuan	classes6.dex	/ http://%s:%d/%s :http://adn.insight.ucweb.com/adsserver/noah_sdk_ad_request ?http://adn.yolinkmob.com/adns/noah/bidding_server/enquiry_price 4http://bidding.yolinkmob.com/sdkserver/price_request *http://log.yolinkmob.com ing_server/enquir
 bidinfo-ssp.iqiyi.com	iQIYI Cupid	classes13.dex	https://bidinfo-ssp.iqiyi.com/anti
@@ -36,18 +39,22 @@ c.etoolads.cn	Other ad SDK	classes6.dex, classes8.dex	https://c.etoolads.cn/s/co
 c.umsns.com	Umeng telemetry	classes5.dex, classes9.dex, lib/arm64-v8a/libcrashsdk.so, lib/armeabi-v7a/libcrashsdk.so, resources.arsc	https://c.umsns.com/ulink/getRTC
 ccs.umeng.com	Umeng telemetry	classes9.dex	https://ccs.umeng.com/sa
 cdn-tos-cn.bytedance.net	Pangle/ByteDance	classes11.dex	2/app_log/ https://apps.bytesfield-b.com https://apps.bytesfield.com 7https://apps.oceanengine.com/customer/api/app/pkg_info? ghttps://cdn-tos-cn.bytedance.net/obj/archi/ad/play- ytesfield.com 7https://apps.oceanengine.com/customer/api/app/
-cn-api-sec.anythinktech.com	AnyThink/TopOn	classes10.dex, resources.arsc	https://cn-api-sec.anythinktech.com/v2/open/app
-cn-api.anythinktech.com	AnyThink/TopOn	classes10.dex	https://cn-api.anythinktech.com/v2/open/app
-cn-da.anythinktech.com	AnyThink/TopOn	classes10.dex	https://cn-da.anythinktech.com/v1/open/da
-cn-tk.anythinktech.com	AnyThink/TopOn	classes10.dex	https://cn-tk.anythinktech.com/ss/rrd
+cnlogs.umeng.com	Umeng telemetry	proxy-2026-06-29-024929.db	Shadowrocket proxy log: 9 DIRECT / 0 PROXY / 0 REJECT hits; hosts=cnlogs.umeng.com; first_rules=GEOIP,CN,DIRECT
 cpro.baidustatic.com	Baidu	classes10.dex	https://cpro.baidustatic.com/cpro/logo/sdk/mob-adIcon_2x.png
 da.statisticslinks.com	Sigmob	classes12.dex, classes17.dex, classes4.dex, classes8.dex	https://da.statisticslinks.com/v1/open/da
 dc.sigmob.cn	Sigmob	classes12.dex, classes17.dex, classes4.dex, classes8.dex	https://dc.sigmob.cn/log
+e.qq.com	Tencent GDT	proxy-2026-06-29-024929.db	Tencent GDT ad SDK suffix. Shadowrocket log showed sdk.e.qq.com and sdkquic.e.qq.com going DIRECT due a generic qq.com DIRECT rule.
 e.uc.cn	UC/Noah/Huichuan	classes.dex, classes10.dex, classes13.dex, classes14.dex, classes17.dex, classes18.dex	https://e.uc.cn/reward/web/main/reward/taskrecord/add4third
+fancyapi.com	FancyDSP	proxy-2026-06-29-024929.db	Shadowrocket proxy log: 16 DIRECT / 0 PROXY / 0 REJECT hits; hosts=g.fancyapi.com, t2.fancyapi.com; first_rules=GEOIP,CN,DIRECT
+fancydsp.com	FancyDSP	proxy-2026-06-29-024929.db	Shadowrocket proxy log: 15 DIRECT / 0 PROXY / 0 REJECT hits; hosts=ad-open2.fancydsp.com, mpcfg.fancydsp.com; first_rules=GEOIP,CN,DIRECT
+fapi.hongxiu158.com	FancyDSP	proxy-2026-06-29-024929.db	Shadowrocket proxy log: 12 DIRECT / 0 PROXY / 0 REJECT hits; hosts=fapi.hongxiu158.com; first_rules=GEOIP,CN,DIRECT
+gdfp.gifshow.com	Kuaishou Ads	proxy-2026-06-29-024929.db	Shadowrocket proxy log: 3 DIRECT / 0 PROXY / 0 REJECT hits; hosts=gdfp.gifshow.com; first_rules=DOMAIN-SUFFIX,gifshow.com,DIRECT
+gdt.qq.com	Tencent GDT	proxy-2026-06-29-024929.db	Shadowrocket proxy log: 26 DIRECT / 0 PROXY / 0 REJECT hits; hosts=c3.gdt.qq.com, mi.gdt.qq.com, v2mi.gdt.qq.com, v3.gdt.qq.com, win.gdt.qq.com; first_rules=DOMAIN-SUFFIX,qq.com,DIRECT
 gromore.pangolin-sdk-toutiao.com	Pangle/ByteDance	classes11.dex, classes13.dex	https://gromore.pangolin-sdk-toutiao.com
 h-adashx.ut.taobao.com	Tanx/Alimama	classes10.dex	https://h-adashx.ut.taobao.com/upload
 huichuan.sm.cn	UC/Noah/Huichuan	classes6.dex	https://huichuan.sm.cn/config/dict
 i.snssdk.com	Pangle/ByteDance	classes11.dex, classes13.dex	https://i.snssdk.com/
+jt-sdk-ios.oss-cn-beijing.aliyuncs.com	Other ad SDK	proxy-2026-06-29-024929.db	Shadowrocket proxy log: 3 DIRECT / 0 PROXY / 0 REJECT hits; hosts=jt-sdk-ios.oss-cn-beijing.aliyuncs.com; first_rules=GEOIP,CN,DIRECT
 log-api.pangolin-sdk-toutiao-b.com	Pangle/ByteDance	classes12.dex	erruptibly lockObj lock_scene log log format error log happened OOM error. 5log-api.pangolin-sdk-toutiao-b.com/service/2/app_log/ log1p logBean logCallbackLock logDirect logError logEv
 log-api.pangolin-sdk-toutiao.com	Pangle/ByteDance	classes11.dex	cation locationFrequency lock lock load failed! lock_screen_default_bg log 3log-api.pangolin-sdk-toutiao.com/service/2/app_log/ log-encode-type logAdapter logEvent logExtra logFlushIn
 log.snssdk.com	Pangle/ByteDance	classes11.dex, classes12.dex, classes13.dex	https://log.snssdk.com/service/2/app_log/
@@ -56,6 +63,7 @@ log.yolinkmob.com	UC/Noah/Huichuan	classes6.dex	http://log.yolinkmob.com/track/n
 logserver.insight.ucweb.com	UC/Noah/Huichuan	classes6.dex	ing_server/enquiry_price 4http://bidding.yolinkmob.com/sdkserver/price_request *http://log.yolinkmob.com/track/noah/ad_log 6http://logserver.insight.ucweb.com/logserver/chargelog http://play.google.com ttp://logserver.insight.ucweb.com/logs
 mmstat.com	Tanx/Alimama	assets/svg-template/SVGTag.java, classes.dex, classes14.dex, classes15.dex, classes16.dex	"ang.com"":""1"",""//*.alicdn.com"":""1"",""//*.mmstat.com"":""1"",""//*.yunos.com"":""1"",""//*.alibaba-inc.com"":""1"",""//*.alitrip.com"":""1"",""//*.aliloan.com"":""1"",""//*.kanbox.com"":""1"",""//*.wirl mama.com"":""1"",""//*.weibo.com"":""1"",""//*.tanx.com"":""1"",""//*.laiwan"
 msga.cupid.iqiyi.com	iQIYI Cupid	classes11.dex, classes13.dex	https://msga.cupid.iqiyi.com/mcp2.gif
+mssdk.volces.com	Pangle/ByteDance	proxy-2026-06-29-024929.db	Shadowrocket proxy log: 3 DIRECT / 0 PROXY / 0 REJECT hits; hosts=mssdk.volces.com; first_rules=GEOIP,CN,DIRECT
 n.sigmob.cn	Sigmob	classes12.dex	d mutilproces mv mw mx my myLooper myPid myStatus myTid myUid mz n n.sigmob.cn n0 n=-1 nA nB nC nClic nD nE nEnableConsoleLog nF nG nGetLogLevel
 open.e.kuaishou.cn	Kuaishou Ads	assets/ksad_idc.json, classes13.dex	"RightRadius uik_when_null_clear_img uil-pool- uil-pool-d- uj uk ul ulog ulog-sdk.gifshow.com ultraviewpager_page_container um um_aaid umcConfigBean = umeng_back umen { ""api"": [ ""open.e.kuaishou.com"", ""open.e.kuaishou.cn"" ], ""ulog"": [ ""ulog-"
 open.e.kuaishou.com	Kuaishou Ads	assets/ksad_idc.json, classes13.dex	https://open.e.kuaishou.com/rest/e/v3/open/sdk2
@@ -64,7 +72,9 @@ p2-lm.adkwai.com	Kuaishou Ads	classes13.dex	https://p2-lm.adkwai.com/udata/pkg/K
 p3-lm.adkwai.com	Kuaishou Ads	classes13.dex	https://p3-lm.adkwai.com/udata/pkg/KS-Android-KSAdSDk/offline_components/adWaynePlayer/ks_so-adWaynePlayerNoSoRelease-5.4.10.1-d7b01836ac-303.zip
 p4-lm.adkwai.com	Kuaishou Ads	classes13.dex	https://p4-lm.adkwai.com/udata/pkg/KS-Android-KSAdSDk/offline_components/adInnerEc/ks_so-adInnerEcNoSoRelease-5.3.11-49e860ead1-316.zip
 p5-lm.adkwai.com	Kuaishou Ads	classes13.dex	https://p5-lm.adkwai.com/udata/pkg/KS-Android-KSAdSDk/offline_components/adLive/ks_so-adLiveNoSoRelease-4.8.13-9cf471c757-289.zip
+p66-ad.adkwai.com	Kuaishou Ads	proxy-2026-06-29-024929.db	Shadowrocket proxy log: 1 DIRECT / 0 PROXY / 0 REJECT hits; hosts=p66-ad.adkwai.com; first_rules=GEOIP,CN,DIRECT
 partner.uc.cn	UC/Noah/Huichuan	classes6.dex	https://partner.uc.cn/mediations
+pgdt.ugdtimg.com	Tencent GDT	proxy-2026-06-29-024929.db	Shadowrocket proxy log: 2 DIRECT / 0 PROXY / 0 REJECT hits; hosts=pgdt.ugdtimg.com; first_rules=GEOIP,CN,DIRECT
 phoniex.toutiao.com	Pangle/ByteDance	classes12.dex	https://phoniex.toutiao.com
 pic1.iqiyipic.com	iQIYI Cupid	classes13.dex	https://pic1.iqiyipic.com/lequ/20241216/gift_box_title.png
 pic3.iqiyipic.com	iQIYI Cupid	classes13.dex	.8.13-9cf471c757-289.zip 4https://pic1.iqiyipic.com/lequ/20241216/gift_box.png :https://pic1.iqiyipic.com/lequ/20241216/gift_box_title.png Mhttps://pic3.iqiyipic.com/lequ/20260106/76e4a2008d0847f6a197be7749ad0d19.webp Mhttps://pic3.iqiyipic
@@ -80,16 +90,14 @@ s-adashx.ut.taobao.com	Tanx/Alimama	classes10.dex	sk_complete rv_task_complete_c
 scc.bytedance.com	Pangle/ByteDance	assets/lottie_json/shake_phone.json, assets/lottie_json/swipe_right.json, classes11.dex, classes12.dex	https://scc.bytedance.com/scc_sdk/url_scan_v4
 sdk-beta.aqyad.com	Other ad SDK	classes4.dex	https://sdk-beta.aqyad.com
 sdk-log.partner.sm.cn	UC/Noah/Huichuan	classes6.dex, lib/arm64-v8a/libsaasCorePlayer.so, lib/armeabi-v7a/libsaasCorePlayer.so	https://sdk-log.partner.sm.cn/feedback_log
-sdk.adx.adwangmai.com	Wangmai/IYT	classes.dex	https://sdk.adx.adwangmai.com/
 sdk.aqyad.com	Other ad SDK	classes4.dex	https://sdk.aqyad.com
 sdk.zhangyuyidong.cn	UC/Noah/Huichuan	classes6.dex	http://sdk.zhangyuyidong.cn
 sdklog.zhangyuyidong.cn	UC/Noah/Huichuan	classes6.dex	http://sdklog.zhangyuyidong.cn
+sdktmp.hubcloud.com.cn	Other ad SDK	proxy-2026-06-29-024929.db	Shadowrocket proxy log: 6 DIRECT / 0 PROXY / 0 REJECT hits; hosts=sdktmp.hubcloud.com.cn; first_rules=DOMAIN-SUFFIX,cn,DIRECT
 sdkupgrade.insight.ucweb.com	UC/Noah/Huichuan	classes6.dex	https://sdkupgrade.insight.ucweb.com/sdkserver/getupgradesdk
-se.anythinktech.com	AnyThink/TopOn	classes10.dex	https://se.anythinktech.com/v2/open/api_hb
 sf3-fe-tos.pglstatp-toutiao.com	Pangle/ByteDance	assets/lottie_json/shake_phone.json, assets/lottie_json/swipe_right.json, classes11.dex, classes12.dex	https://sf3-fe-tos.pglstatp-toutiao.com/obj/csj-sdk-static/csj_assets/shake.webp
 site.u-mob.cn	UC/Noah/Huichuan	classes6.dex	https://site.u-mob.cn
 site.uc.cn	UC/Noah/Huichuan	classes6.dex	https://site.uc.cn/site/view?id=
-ssapi.anythinktech.com	AnyThink/TopOn	classes10.dex	_BAO&app_id= https://resource/ -https://rule.alibaba.com/rule/detail/2042.htm *https://se.anythinktech.com/v2/open/api_hb &https://se.anythinktech.com/v2/open/ns 5https://ssapi.anythinktech.com/sdk/rea hinktech.com/v2/open/ns 5https://ssapi
 ssp.iytcdn.com	Wangmai/IYT	classes.dex	https://ssp.iytcdn.com/reward/token
 ssp.ucweb.com	UC/Noah/Huichuan	classes6.dex	https://ssp.ucweb.com/native_ad
 sss.umeng.com	Umeng telemetry	classes9.dex	https://sss.umeng.com/api/v2/al
@@ -101,16 +109,17 @@ success.ctobsnssdk.com	Pangle/ByteDance	assets/lottie_json/shake_phone.json, ass
 t7z.cupid.iqiyi.com	iQIYI Cupid	classes13.dex	https://t7z.cupid.iqiyi.com/dsp_track3
 tanx.com	Other ad SDK	classes.dex, classes10.dex, classes16.dex, classes18.dex	"er_slide_in_from_top alerter_slide_out_to_top alihacore_test aliyun-inc.com aliyun.com aliyuncs.com allServices allowStacking alog alpha alphabeticModifiers al mama.com"":""1"",""//*.weibo.com"":""1"",""//*.tanx.com"":""1"",""//*.laiwang.com"":""1"",""//*."
 tbsasv.sigmob.cn	Sigmob	classes8.dex	rent_path tbMainClazz tbMainMethod tbSpeedBucket tbSpeedClazz tbrest_test tbsasv.sigmob.cn/ad/v4 tbsasv.sigmob.cn/hb/v2/ad tbspeed tc_string tcl_eu tcpConnected tcp
-tc.anythinktech.com	AnyThink/TopOn	classes10.dex	tbreturl tbrpsdk tbrpsdk-biometrics tbrpsdk-easyTrack tbrpsdk-trackUpload tc.anythinktech.com tc_string tcp_domain tcp_port tcp_rate tcp_tk_da_type td td_sds te tel
 test.huichuan.sm.cn	UC/Noah/Huichuan	classes6.dex	https://test.huichuan.sm.cn/config/get_video
 tk.statisticslinks.com	Sigmob	classes10.dex, classes17.dex, classes4.dex, classes6.dex, classes8.dex	https://tk.statisticslinks.com/v2/open/a_tk
 tm.sigmob.cn	Sigmob	classes12.dex	tl_textSelectColor tl_textUnselectColor tl_textsize tls tls handshaked tm tm.sigmob.cn tmpApi is null tmpArray tmpBoundsRect tmpLocation tmpMatrix tmpPaint tmp
+tnc3-alisc1.zijieapi.com	Pangle/ByteDance	proxy-2026-06-29-024929.db	Shadowrocket proxy log: 3 DIRECT / 0 PROXY / 0 REJECT hits; hosts=tnc3-alisc1.zijieapi.com; first_rules=GEOIP,CN,DIRECT
 tobapplog.ctobsnssdk.com	Pangle/ByteDance	classes11.dex	com/service/2/abtest_config/ 0https://toblog.ctobsnssdk.com/service/2/app_log/ =https://toblog.ctobsnssdk.com/service/2/device_register_only/ 8https://toblog.ctobsnssdk.com/service/2/device_sdk/kite/ 5https://toblog.ctobs atp-toutiao.com/ob
 toblog.ctobsnssdk.com	Pangle/ByteDance	classes11.dex	https://toblog.ctobsnssdk.com/service/2/device_register_only/
 trace-beta.aqyad.com	Other ad SDK	classes4.dex	https://trace-beta.aqyad.com
 trace.aqyad.com	Other ad SDK	classes4.dex	https://trace.aqyad.com
 track.sigmob.cn	Sigmob	classes12.dex	eout_ctrl tq tr traceId track track is not send track message: track-id track.sigmob.cn trackColor trackColorActive trackColorInactive trackCornerRadius trackExtr
 tracktp.sigmob.cn	Sigmob	classes12.dex	ess trackTint trackTintMode trackTop trackWidth tracker trackers tracks tracktp.sigmob.cn trailing_comments *trans subscribedItem list occurs exception transId trans_
+tuia.cn	Tuia	proxy-2026-06-29-024929.db	Shadowrocket proxy log: 12 DIRECT / 0 PROXY / 0 REJECT hits; hosts=event.tuia.cn, s.tuia.cn; first_rules=DOMAIN-SUFFIX,cn,DIRECT
 ucc.umeng.com	Umeng telemetry	classes9.dex	https://ucc.umeng.com/v2/inn/fetch
 ulog-sdk.gifshow.com	Kuaishou Ads	assets/ksad_idc.json, classes13.dex	"RightRadius uik_when_null_clear_img uil-pool- uil-pool-d- uj uk ul ulog ulog-sdk.gifshow.com ultraviewpager_page_container um um_aaid umcConfigBean = umeng_back umen { ""api"": [ ""open.e.kuaishou.com"", ""open.e.kuaishou.cn"" ], ""ulog"": [ ""ulog-"
 ulog-sdk.ksapisrv.com	Kuaishou Ads	assets/ksad_idc.json, classes13.dex	"RightRadius uik_when_null_clear_img uil-pool- uil-pool-d- uj uk ul ulog ulog-sdk.gifshow.com ultraviewpager_page_container um um_aaid umcConfigBean = umeng_back umen { ""api"": [ ""open.e.kuaishou.com"", ""open.e.kuaishou.cn"" ], ""ulog"": [ ""ulog-"
