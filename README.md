@@ -1,6 +1,6 @@
-# Ping GPMS Shadowrocket Ad Rules
+# Biubiu Accelerator Shadowrocket Ad Rules
 
-Shadowrocket rules extracted from `p_ping_gpms_apk_0a8cfea2718f91187b748ecf4691a2bf.apk`.
+Shadowrocket rules extracted from the Biubiu Accelerator APK `p_ping_gpms_apk_0a8cfea2718f91187b748ecf4691a2bf.apk`.
 
 - APK SHA256: `8d11bc1001d2bee0e09afe17254d59f00f6d04ea37435075a3db8442a6a7c7b8`
 - APK size: `81451971` bytes
@@ -12,7 +12,7 @@ Shadowrocket rules extracted from `p_ping_gpms_apk_0a8cfea2718f91187b748ecf4691a
 Add this raw URL as a Shadowrocket remote rule set:
 
 ```text
-https://raw.githubusercontent.com/Lincoln233/ping-gpms-shadowrocket-rules/main/shadowrocket-adblock.list
+https://raw.githubusercontent.com/Lincoln233/biubiu-accelerator-shadowrocket-rules/main/shadowrocket-adblock.list
 ```
 
 ## Method
