@@ -2,6 +2,7 @@ ad.baihemob.com
 ada.baidu.com
 adash.m.taobao.com
 adashx.m.taobao.com
+adn-plus.com.cn
 adn.insight.ucweb.com
 adn.yolinkmob.com
 adservice.sigmob.cn
@@ -24,8 +25,8 @@ api.e.kuaishou.com
 api.kuaishouzt.com
 api.kwaizt.com
 api.shanghailingye.cn
-api.ssp.xcultur.com
 api.wxcjgg.cn
+apmplus.volces.com
 applog.bytedance.net
 applog.snssdk.com
 apps.bytesfield-b.com
@@ -36,6 +37,7 @@ beta2-ad-open-api.test.gifshow.com
 bgg.baidu.com
 bidding.yolinkmob.com
 bidinfo-ssp.iqiyi.com
+bridgeoos.com
 c.etoolads.cn
 c.umsns.com
 ccs.umeng.com
@@ -56,10 +58,12 @@ gdfp.gifshow.com
 gdt.qq.com
 gromore.pangolin-sdk-toutiao.com
 h-adashx.ut.taobao.com
+hc-ssp.sm.cn
 huichuan.sm.cn
 i.snssdk.com
 jomoxc.com
 jt-sdk-ios.oss-cn-beijing.aliyuncs.com
+lf-cdn-tos.bytescm.com
 log-api.pangolin-sdk-toutiao-b.com
 log-api.pangolin-sdk-toutiao.com
 log.snssdk.com
@@ -85,6 +89,7 @@ p5-lm.adkwai.com
 p66-ad.adkwai.com
 partner.uc.cn
 pgdt.ugdtimg.com
+pglstatp-toutiao.com
 phoniex.toutiao.com
 pic1.iqiyipic.com
 pic3.iqiyipic.com
@@ -103,12 +108,12 @@ s-adashx.ut.taobao.com
 scc.bytedance.com
 sdk-beta.aqyad.com
 sdk-log.partner.sm.cn
+sdk-track.66mobi.com
 sdk.aqyad.com
 sdk.zhangyuyidong.cn
 sdklog.zhangyuyidong.cn
 sdktmp.hubcloud.com.cn
 sdkupgrade.insight.ucweb.com
-sf3-fe-tos.pglstatp-toutiao.com
 site.u-mob.cn
 site.uc.cn
 ssp.iytcdn.com
@@ -119,6 +124,7 @@ static.wxcjgg.cn
 static.yximgs.com
 style-browse-openapi.test.gifshow.com
 success.ctobsnssdk.com
+t-dsp.pinduoduo.com
 t7z.cupid.iqiyi.com
 tanx.com
 tbsasv.sigmob.cn
@@ -146,6 +152,7 @@ usertrack.alibaba-inc.com
 utoken.umeng.com
 v1-lm.adukwai.com
 v6-adashx.ut.taobao.com
+video-dsp.pddpic.com
 w1.gskwai.com
 w1.kskwai.com
 w2.gskwai.com
@@ -155,4 +162,5 @@ wolong.sm.cn
 www.adintl.cn
 www.pangle.cn
 www.toutiaopage.com
+xcultur.com
 zt.gifshow.com

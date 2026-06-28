@@ -3,6 +3,7 @@ ad.baihemob.com	Other ad SDK	classes.dex	http://ad.baihemob.com
 ada.baidu.com	Baidu	classes6.dex, classes8.dex	https://ada.baidu.com/site
 adash.m.taobao.com	Tanx/Alimama	classes10.dex	http://adash.m.taobao.com/rest/sur
 adashx.m.taobao.com	Tanx/Alimama	classes10.dex	adapterNotExistError adapter_bridge_ver adapter_class adaptive adaptive_ad adashx.m.taobao.com adashxServerHost adb_enabled add add event: add group event: add path t
+adn-plus.com.cn	ADN Plus	proxy-2026-06-29-031101.db	ADN Plus ad/ssp/track suffix. Tablet log showed ad-api, adx-track, and ssp-track.adn-plus.com.cn going DIRECT during ad playback.
 adn.insight.ucweb.com	UC/Noah/Huichuan	classes6.dex	http://adn.insight.ucweb.com/adsserver/noah_sdk_ad_request
 adn.yolinkmob.com	UC/Noah/Huichuan	classes6.dex	http://adn.yolinkmob.com/adns/noah/bidding_server/enquiry_price
 adservice.sigmob.cn	Sigmob	classes12.dex, classes8.dex	https://adservice.sigmob.cn/extconfig?
@@ -25,8 +26,8 @@ api.e.kuaishou.com	Kuaishou Ads	assets/ksad_idc.json, classes13.dex	"V apW apX a
 api.kuaishouzt.com	Kuaishou Ads	assets/ksad_idc.json, classes13.dex	"V apW apX apY apZ apa apb apc apd ape apf apg aph api api 为空 api.e.kuaishou.com apiAdTag apiBreathLamp apiCode apiExpParam apiKey apiLevel apiMisTouch ""w1.gskwai.com"", ""w2.gskwai.com"" ], ""zt"": [ ""zt.gifshow.com"", ""api.kuaishouzt.com"", ""api."
 api.kwaizt.com	Kuaishou Ads	assets/ksad_idc.json, classes13.dex	"V apW apX apY apZ apa apb apc apd ape apf apg aph api api 为空 api.e.kuaishou.com apiAdTag apiBreathLamp apiCode apiExpParam apiKey apiLevel apiMisTouch ouzt.com"", ""api.kwaizt.com"" ], ""eapi"": [ ""api.e.kuaishou.com"", ""api.e.kuaishou.cn"" ] } ""w"
 api.shanghailingye.cn	Wangmai/IYT	proxy-2026-06-29-024929.db	Shadowrocket proxy log: 10 DIRECT / 0 PROXY / 0 REJECT hits; hosts=api.shanghailingye.cn; first_rules=DOMAIN-SUFFIX,cn,DIRECT
-api.ssp.xcultur.com	Wangmai/IYT	proxy-2026-06-29-024929.db	Shadowrocket proxy log: 4 DIRECT / 0 PROXY / 0 REJECT hits; hosts=api.ssp.xcultur.com; first_rules=GEOIP,CN,DIRECT
 api.wxcjgg.cn	Wangmai/IYT	classes.dex	tor anticipateOvershootInterpolator anyOf ap apdId apdid apdidToken api api.shanghailingye.cn api.wxcjgg.cn apiAuthCheck apiGroupMap apiKey apiLevel apiName apiRefere tInterpolator anyOf ap apdId apdid apdidToken api api.shanghailingye.cn a
+apmplus.volces.com	Pangle/ByteDance	classes11.dex, proxy-2026-06-29-031101.db	ByteDance/Pangle APM endpoint. Seen 3 DIRECT hits in the tablet ad session; APK strings also include apmplus.volces.com.
 applog.bytedance.net	Pangle/ByteDance	classes12.dex	nfo applications applied appliedThemeValues applink_click applist applog ,applog.bytedance.net/service/2/app_log_test/ applog_did apply applyBoxAttributes applyBoxUnderli
 applog.snssdk.com	Pangle/ByteDance	classes11.dex, classes12.dex, classes13.dex	https://applog.snssdk.com/service/2/app_log/
 apps.bytesfield-b.com	Pangle/ByteDance	classes11.dex, classes12.dex	https://apps.bytesfield-b.com
@@ -37,6 +38,7 @@ beta2-ad-open-api.test.gifshow.com	Kuaishou Ads	classes13.dex	"in_sdk_tips bem b
 bgg.baidu.com	Baidu MobAds	proxy-2026-06-29-025731.db	Baidu ad host. Seen during watch-ad session with DOMAIN-SUFFIX,baidu.com,DIRECT.
 bidding.yolinkmob.com	UC/Noah/Huichuan	classes6.dex	/ http://%s:%d/%s :http://adn.insight.ucweb.com/adsserver/noah_sdk_ad_request ?http://adn.yolinkmob.com/adns/noah/bidding_server/enquiry_price 4http://bidding.yolinkmob.com/sdkserver/price_request *http://log.yolinkmob.com ing_server/enquir
 bidinfo-ssp.iqiyi.com	iQIYI Cupid	classes13.dex	https://bidinfo-ssp.iqiyi.com/anti
+bridgeoos.com	Other ad SDK	proxy-2026-06-29-031101.db	Ad bridge/telemetry suffix. Tablet log showed adx-os, da, and tk.bridgeoos.com going PROXY during splash/reward ad flow.
 c.etoolads.cn	Other ad SDK	classes6.dex, classes8.dex	https://c.etoolads.cn/s/config
 c.umsns.com	Umeng telemetry	classes5.dex, classes9.dex, lib/arm64-v8a/libcrashsdk.so, lib/armeabi-v7a/libcrashsdk.so, resources.arsc	https://c.umsns.com/ulink/getRTC
 ccs.umeng.com	Umeng telemetry	classes9.dex	https://ccs.umeng.com/sa
@@ -57,10 +59,12 @@ gdfp.gifshow.com	Kuaishou Ads	proxy-2026-06-29-024929.db	Shadowrocket proxy log:
 gdt.qq.com	Tencent GDT	proxy-2026-06-29-024929.db	Shadowrocket proxy log: 26 DIRECT / 0 PROXY / 0 REJECT hits; hosts=c3.gdt.qq.com, mi.gdt.qq.com, v2mi.gdt.qq.com, v3.gdt.qq.com, win.gdt.qq.com; first_rules=DOMAIN-SUFFIX,qq.com,DIRECT
 gromore.pangolin-sdk-toutiao.com	Pangle/ByteDance	classes11.dex, classes13.dex	https://gromore.pangolin-sdk-toutiao.com
 h-adashx.ut.taobao.com	Tanx/Alimama	classes10.dex	https://h-adashx.ut.taobao.com/upload
+hc-ssp.sm.cn	UC/Noah/Huichuan	proxy-2026-06-29-031101.db	UC/Huichuan SSP endpoint. Seen 3 DIRECT hits during tablet ad flow.
 huichuan.sm.cn	UC/Noah/Huichuan	classes6.dex	https://huichuan.sm.cn/config/dict
 i.snssdk.com	Pangle/ByteDance	classes11.dex, classes13.dex	https://i.snssdk.com/
 jomoxc.com	Baidu MobAds	proxy-2026-06-29-025731.db	Dynamic ad media/asset suffix observed as aa39...jomoxc.com during the Baidu MobAds burst.
 jt-sdk-ios.oss-cn-beijing.aliyuncs.com	Other ad SDK	proxy-2026-06-29-024929.db	Shadowrocket proxy log: 3 DIRECT / 0 PROXY / 0 REJECT hits; hosts=jt-sdk-ios.oss-cn-beijing.aliyuncs.com; first_rules=GEOIP,CN,DIRECT
+lf-cdn-tos.bytescm.com	Pangle/ByteDance	proxy-2026-06-29-031101.db	ByteDance CDN host seen 3 DIRECT hits in tablet ad flow, alongside Pangle/Gromore requests.
 log-api.pangolin-sdk-toutiao-b.com	Pangle/ByteDance	classes12.dex	erruptibly lockObj lock_scene log log format error log happened OOM error. 5log-api.pangolin-sdk-toutiao-b.com/service/2/app_log/ log1p logBean logCallbackLock logDirect logError logEv
 log-api.pangolin-sdk-toutiao.com	Pangle/ByteDance	classes11.dex	cation locationFrequency lock lock load failed! lock_screen_default_bg log 3log-api.pangolin-sdk-toutiao.com/service/2/app_log/ log-encode-type logAdapter logEvent logExtra logFlushIn
 log.snssdk.com	Pangle/ByteDance	classes11.dex, classes12.dex, classes13.dex	https://log.snssdk.com/service/2/app_log/
@@ -86,6 +90,7 @@ p5-lm.adkwai.com	Kuaishou Ads	classes13.dex	https://p5-lm.adkwai.com/udata/pkg/K
 p66-ad.adkwai.com	Kuaishou Ads	proxy-2026-06-29-024929.db	Shadowrocket proxy log: 1 DIRECT / 0 PROXY / 0 REJECT hits; hosts=p66-ad.adkwai.com; first_rules=GEOIP,CN,DIRECT
 partner.uc.cn	UC/Noah/Huichuan	classes6.dex	https://partner.uc.cn/mediations
 pgdt.ugdtimg.com	Tencent GDT	proxy-2026-06-29-024929.db	Shadowrocket proxy log: 2 DIRECT / 0 PROXY / 0 REJECT hits; hosts=pgdt.ugdtimg.com; first_rules=GEOIP,CN,DIRECT
+pglstatp-toutiao.com	Pangle/ByteDance	classes11.dex, proxy-2026-06-29-031101.db	Pangle static/stat suffix. APK and earlier logs showed sf3-fe-tos.pglstatp-toutiao.com; tablet log added sf6-fe-tos.pglstatp-toutiao.com.
 phoniex.toutiao.com	Pangle/ByteDance	classes12.dex	https://phoniex.toutiao.com
 pic1.iqiyipic.com	iQIYI Cupid	classes13.dex	https://pic1.iqiyipic.com/lequ/20241216/gift_box_title.png
 pic3.iqiyipic.com	iQIYI Cupid	classes13.dex	.8.13-9cf471c757-289.zip 4https://pic1.iqiyipic.com/lequ/20241216/gift_box.png :https://pic1.iqiyipic.com/lequ/20241216/gift_box_title.png Mhttps://pic3.iqiyipic.com/lequ/20260106/76e4a2008d0847f6a197be7749ad0d19.webp Mhttps://pic3.iqiyipic
@@ -104,12 +109,12 @@ s-adashx.ut.taobao.com	Tanx/Alimama	classes10.dex	sk_complete rv_task_complete_c
 scc.bytedance.com	Pangle/ByteDance	assets/lottie_json/shake_phone.json, assets/lottie_json/swipe_right.json, classes11.dex, classes12.dex	https://scc.bytedance.com/scc_sdk/url_scan_v4
 sdk-beta.aqyad.com	Other ad SDK	classes4.dex	https://sdk-beta.aqyad.com
 sdk-log.partner.sm.cn	UC/Noah/Huichuan	classes6.dex, lib/arm64-v8a/libsaasCorePlayer.so, lib/armeabi-v7a/libsaasCorePlayer.so	https://sdk-log.partner.sm.cn/feedback_log
+sdk-track.66mobi.com	Other ad SDK	proxy-2026-06-29-031101.db	66mobi SDK tracking endpoint. Seen 3 DIRECT hits during tablet ad flow.
 sdk.aqyad.com	Other ad SDK	classes4.dex	https://sdk.aqyad.com
 sdk.zhangyuyidong.cn	UC/Noah/Huichuan	classes6.dex	http://sdk.zhangyuyidong.cn
 sdklog.zhangyuyidong.cn	UC/Noah/Huichuan	classes6.dex	http://sdklog.zhangyuyidong.cn
 sdktmp.hubcloud.com.cn	Other ad SDK	proxy-2026-06-29-024929.db	Shadowrocket proxy log: 6 DIRECT / 0 PROXY / 0 REJECT hits; hosts=sdktmp.hubcloud.com.cn; first_rules=DOMAIN-SUFFIX,cn,DIRECT
 sdkupgrade.insight.ucweb.com	UC/Noah/Huichuan	classes6.dex	https://sdkupgrade.insight.ucweb.com/sdkserver/getupgradesdk
-sf3-fe-tos.pglstatp-toutiao.com	Pangle/ByteDance	assets/lottie_json/shake_phone.json, assets/lottie_json/swipe_right.json, classes11.dex, classes12.dex	https://sf3-fe-tos.pglstatp-toutiao.com/obj/csj-sdk-static/csj_assets/shake.webp
 site.u-mob.cn	UC/Noah/Huichuan	classes6.dex	https://site.u-mob.cn
 site.uc.cn	UC/Noah/Huichuan	classes6.dex	https://site.uc.cn/site/view?id=
 ssp.iytcdn.com	Wangmai/IYT	classes.dex	https://ssp.iytcdn.com/reward/token
@@ -120,6 +125,7 @@ static.wxcjgg.cn	Wangmai/IYT	classes.dex	ligames.com !https://pre-ucc-log.aligam
 static.yximgs.com	Kuaishou Ads	classes13.dex	https://static.yximgs.com/udata/pkg/KS-Android-KSAdSDk/ks_so-appStatusArm64v8aRelease-3.3.14.apk
 style-browse-openapi.test.gifshow.com	Kuaishou Ads	classes13.dex	"4.apk Ghttps://style-browse-openapi.test.gifshow.com//rest/e/internal/adBrowse &https://t7z.cupid.iqiyi.com/dsp_track3 https://t7z.cupid.iqiyi.com/etx !https://t7z.cupid.iqiyi.com/mixer ""https://t7 ata/pkg/KS-Android-KSAdSDk/ks_so-appStatus"
 success.ctobsnssdk.com	Pangle/ByteDance	assets/lottie_json/shake_phone.json, assets/lottie_json/swipe_right.json, classes11.dex, classes12.dex	.snssdk.com/service/2/app_log/ -https://scc.bytedance.com/scc_sdk/url_scan_v4 https://sf3-fe-tos.pglstatp-toutiao.com/obj/ad-pattern/pattern-aggregation/pattern-aggregation-eCommerce-abtest/shoppingMall-defaultPage/index.html ghttps://sf3-f
+t-dsp.pinduoduo.com	Pinduoduo DSP	proxy-2026-06-29-031101.db	Pinduoduo DSP endpoint. Seen DIRECT during tablet ad/video flow.
 t7z.cupid.iqiyi.com	iQIYI Cupid	classes13.dex	https://t7z.cupid.iqiyi.com/dsp_track3
 tanx.com	Other ad SDK	classes.dex, classes10.dex, classes16.dex, classes18.dex	"er_slide_in_from_top alerter_slide_out_to_top alihacore_test aliyun-inc.com aliyun.com aliyuncs.com allServices allowStacking alog alpha alphabeticModifiers al mama.com"":""1"",""//*.weibo.com"":""1"",""//*.tanx.com"":""1"",""//*.laiwang.com"":""1"",""//*."
 tbsasv.sigmob.cn	Sigmob	classes8.dex	rent_path tbMainClazz tbMainMethod tbSpeedBucket tbSpeedClazz tbrest_test tbsasv.sigmob.cn/ad/v4 tbsasv.sigmob.cn/hb/v2/ad tbspeed tc_string tcl_eu tcpConnected tcp
@@ -147,6 +153,7 @@ usertrack.alibaba-inc.com	Tanx/Alimama	AndroidManifest.xml, classes.dex, classes
 utoken.umeng.com	Umeng telemetry	classes9.dex	https://utoken.umeng.com
 v1-lm.adukwai.com	Kuaishou Ads	classes.dex	https://v1-lm.adukwai.com/upic/2023/02/18/14/BMjAyMzAyMTgxNDE5NDZfNzA5ODY1ODE0Xzk2NDc4NDE4ODQ0XzJfMw==_b_B37be32fab59e9b1fb0523acae5fa2a45.mp4
 v6-adashx.ut.taobao.com	Tanx/Alimama	classes10.dex	_loader v v0 v1 v100 v1= v2 v25 v3 v31_exp v4 v4-wlan0 v5 v50 v6 v6-adashx.ut.taobao.com v75 v: vBtnDivider1 vBtnDivider2 v_btn_divider1 v_btn_divider2 v_c v_cd
+video-dsp.pddpic.com	Pinduoduo DSP	proxy-2026-06-29-031101.db	Pinduoduo DSP video host. Seen 2 DIRECT hits during tablet ad/video flow.
 w1.gskwai.com	Kuaishou Ads	assets/ksad_idc.json	"""w1.gskwai.com"", ""w2.gskwai.com"" ], ""zt"": [ ""zt.gifshow.com"", ""api.kuaishouzt.com"", ""api.kwaizt.com"" ], ""eapi"": [ ""api.e.kuaishou.com"", ""api.e.ku om"", ""open.e.kuaishou.cn"" ], ""ulog"": [ ""ulog-sdk.gifshow.com"", ""ulog-sdk.ksapisrv.com"" ], ""cdn"
 w1.kskwai.com	Kuaishou Ads	assets/ksad_idc.json, classes13.dex	"RightRadius uik_when_null_clear_img uil-pool- uil-pool-d- uj uk ul ulog ulog-sdk.gifshow.com ultraviewpager_page_container um um_aaid umcConfigBean = umeng_back umen om"", ""open.e.kuaishou.cn"" ], ""ulog"": [ ""ulog-sdk.gifshow.com"", ""ulog-sdk.k"
 w2.gskwai.com	Kuaishou Ads	assets/ksad_idc.json	"""w1.gskwai.com"", ""w2.gskwai.com"" ], ""zt"": [ ""zt.gifshow.com"", ""api.kuaishouzt.com"", ""api.kwaizt.com"" ], ""eapi"": [ ""api.e.kuaishou.com"", ""api.e.ku dk.ksapisrv.com"" ], ""cdn"": [ ""w1.kskwai.com"", ""w2.kskwai.com"", ""w1.gskwai.com"", ""w2.gskwai.com"
@@ -156,4 +163,5 @@ wolong.sm.cn	UC/Noah/Huichuan	classes6.dex	https://wolong.sm.cn/app_event
 www.adintl.cn	UC/Noah/Huichuan	classes6.dex	est.huichuan.sm.cn/noah/noahLog -https://test.huichuan.sm.cn/redirect/feedback ,https://wolong-dsp.sm.cn/exchange?dsp_type=6 https://wolong.sm.cn/app_event hhttps://www.adintl.cn/sdkFeedback.html?slotId= huichuan.sm.cn/redirect/feedback ,ht
 www.pangle.cn	Other ad SDK	classes12.dex	https://www.pangle.cn/privacy/partner
 www.toutiaopage.com	Pangle/ByteDance	classes11.dex	erofsalmon\.com.*@3 X.+(www.chengzijianzhan.com|www.toutiaopage.com/tetris/page|ad.toutiao.com/tetris/page).+ .. ... A...........................backPressed................ cklyopen\.com.*@3 .*thefatherofsalmon\.com.* .*thefatherofsalmon\.c
+xcultur.com	Wangmai/IYT	proxy-2026-06-29-024929.db, proxy-2026-06-29-031101.db	SSP/FU ad suffix. Earlier logs showed api.ssp.xcultur.com; tablet log added api.fu.xcultur.com.
 zt.gifshow.com	Kuaishou Ads	assets/ksad_idc.json	"""w1.gskwai.com"", ""w2.gskwai.com"" ], ""zt"": [ ""zt.gifshow.com"", ""api.kuaishouzt.com"", ""api.kwaizt.com"" ], ""eapi"": [ ""api.e.kuaishou.com"", ""api.e.ku gskwai.com"" ], ""zt"": [ ""zt.gifshow.com"", ""api.kuaishouzt.com"", ""api.kwaizt.com"" ], ""eapi"": [ """
